@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm a Developer Hoeun Seong.<br>
+I'm enrolled in Dongguk University, majoring in the Department of Computer Science and Engineering.<br><br>
+## Club
 <!--
 **sunhanmoo/sunhanmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
