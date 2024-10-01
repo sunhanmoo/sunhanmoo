@@ -33,4 +33,4 @@
 <br><br><br>
 
 ## ✨ GitHub
-![sunhanmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhanmoo&theme=default_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhanmoo&show_icons=true&theme=graywhite)
