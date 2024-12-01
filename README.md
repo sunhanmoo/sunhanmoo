@@ -22,6 +22,7 @@
 <ul>
   <li>2024 동국대학교 공개SW프로젝트 | <b>MENUW [Android]</b></li>
   <li>2024 UMC 사이드 프로젝트 | <b>FocusUP [iOS]</b></li>
+  <li>2024 kakao x goorm 단풍톤 : DANPUNGTHON | <b>LocC [iOS]</b></li>
 </ul>
 <br>
 
