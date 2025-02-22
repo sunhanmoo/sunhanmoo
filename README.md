@@ -20,11 +20,8 @@
 
 ## 📝 Project
 <ul>
-  <li>2024 동국대학교 공개SW프로젝트 | <b>MENUW</b> [Android]</li>
   <li>2024 UMC 사이드 프로젝트 | <b>FocusUP</b> [iOS]</li>
-  <li>2024 동국대학교 웹프로그래밍 | <b>리터러블</b> [Web, JSP/Servlet]</li>
   <li>2024 kakao x goorm 단풍톤 : DANPUNGTHON | <b>LOCC</b> [iOS]</li>
-  <li>2024 동국대학교 데이터베이스설계 | <b>Pawsitive</b> [iOS]</li>
   <li>2024 UMC 사이드 프로젝트 | <b>NUPI</b> [Spring Boot]</li>
 </ul>
 <br>
