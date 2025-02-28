@@ -6,23 +6,10 @@
 <br>
 
 ## 🫧 Experience
-#### 📌 Front-end
 <ul>
   <li>2024 UMC(University MakeUs Challenge) 6th iOS</li>
   <li>2024 9oormthonUNIV(구름톤 유니브) 3rd Front-end</li>
-</ul>
-
-#### 📌 Back-end
-<ul>
   <li>2024 UMC(University MakeUs Challenge) 7th Spring Boot</li>
-</ul>
-<br>
-
-## 📝 Project
-<ul>
-  <li>2024 UMC 사이드 프로젝트 | <b>FocusUP</b> [iOS]</li>
-  <li>2024 kakao x goorm 단풍톤 : DANPUNGTHON | <b>LOCC</b> [iOS]</li>
-  <li>2024 UMC 사이드 프로젝트 | <b>NUPI</b> [Spring Boot]</li>
 </ul>
 <br>
 
