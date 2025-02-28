@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Hoeun Seong
-#### 📌 Major in
+#### Major in
 <ul>
   <li>Dongguk University, Department of Computer Science and Engineering</li>
 </ul>
