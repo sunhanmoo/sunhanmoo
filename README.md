@@ -7,9 +7,9 @@
 
 ## 🫧 Experience
 <ul>
-  <li>2024 UMC(University MakeUs Challenge) 6th iOS</li>
-  <li>2024 9oormthonUNIV(구름톤 유니브) 3rd Front-end</li>
-  <li>2024 UMC(University MakeUs Challenge) 7th Spring Boot</li>
+  <li>UMC(University MakeUs Challenge) 6th iOS</li>
+  <li>9oormthonUNIV(구름톤 유니브) 3rd Front-end</li>
+  <li>UMC(University MakeUs Challenge) 7th Spring Boot</li>
 </ul>
 <br>
 
